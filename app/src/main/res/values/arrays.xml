@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="complaint_categories">
+        <item>Garbage</item>
+        <item>Water Leakage</item>
+        <item>Street Light</item>
+        <item>Potholes</item>
+    </string-array>
+</resources>

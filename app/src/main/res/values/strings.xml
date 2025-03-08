@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Swachh Sathi</string>
+    <string name="welcome_message">Welcome</string>
+    <string name="login">Login</string>
+    <string name="login_with_google">Login with Google</string>
+    <string name="login_with_facebook">Login with Facebook</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="category">Category</string>
+    <string name="description">Description</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="choose_image">Choose Image</string>
+    <string name="location">Location</string>
+    <string name="auto_locate">Auto Locate</string>
+    <string name="select_on_map">Select on Map</string>
+    <string name="submit_complaint">Submit Complaint</string>
+    <string name="your_badges">Your Badges</string>
+    <string name="community_progress">Community Progress</string>
+    <string name="leaderboard">Leaderboard</string>
+    <string name="dont_have_account">Don\'t have an account? Register here</string>
+    <string name="register_title">Register</string>
+    <string name="name_hint">Name</string>
+    <string name="register">Register</string>
+    <string name="already_have_account">Already have an account? Login here</string>
+    <string name="progress_loading">Loading...</string>
+</resources>

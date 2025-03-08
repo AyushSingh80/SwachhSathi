@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.example.swachhsathi.ui.fragement.HomeFragment"
+        android:label="Home" />
+
+    <fragment
+        android:id="@+id/reportFragment"
+        android:name="com.example.swachhsathi.ui.fragement.ReportFragment"
+        android:label="Report Complaint" />
+
+    <fragment
+        android:id="@+id/trackFragment"
+        android:name="com.example.swachhsathi.ui.fragement.TrackFragment"
+        android:label="Track Vehicles" />
+
+    <fragment
+        android:id="@+id/guidesFragment"
+        android:name="com.example.swachhsathi.ui.fragement.GuidesFragment"
+        android:label="Guides" />
+
+    <fragment
+        android:id="@+id/adminFragment"
+        android:name="com.example.swachhsathi.ui.fragement.AdminFragment"
+        android:label="Administration" />
+</navigation>
